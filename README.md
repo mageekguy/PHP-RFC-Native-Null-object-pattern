@@ -6,8 +6,9 @@ This repositoty centralize the development of a RFC for [PHP](http://php.net), a
 
 So the roadmap is:
 
-1. Email @internals list to measure reaction to our proposal
-2. Create the RFC and a POC of a technical implementation
-3. Publish the RFC on the wiki and debate about it with internals@
+1. Add a pro/cons section in the proposal ;
+2. Email @internals list to measure reaction to our proposal ;
+3. Create the RFC and a POC of a technical implementation ;
+4. Publish the RFC on the wiki and debate about it with internals@.
 
 Currently, the first step is a work in progress.
